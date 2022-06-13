@@ -1,8 +1,8 @@
 # a-star
 
-##A-Star Path-finding Algorithm
+## A-Star Path-finding Algorithm
 
-###References:
+### References:
 -	https://www.geeksforgeeks.org/a-search-algorithm/
 
 
